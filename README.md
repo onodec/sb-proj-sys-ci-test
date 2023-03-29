@@ -10,4 +10,5 @@ for the Onodec Sandbox Projection System
 ## Why tests on this repository? 
 
 The reason why tests in this repository is important, because it allows 
-the ability to test out CI before deploying to repositories. 
+the ability to test out CI before deploying to repositories. So that 
+it will deliver successfull "over the air" software updates
